@@ -1,7 +1,9 @@
-package org.rob.diary_257779;
+package org.rob.diary_257779.activities;
 
-import android.os.Bundle;
+import org.rob.diary_257779.R;
+
 import android.app.Activity;
+import android.os.Bundle;
 import android.view.Menu;
 
 public class MainDiaryActivity extends Activity {
